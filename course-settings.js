@@ -1,25 +1,25 @@
 const courseSettings = {
   language: "en",
-  name: "Python Programming MOOC 2024",
-  siteUrl: "https://programming-24.mooc.fi",
-  githubUrl: "https://github.com/rage/programming-24",
+  name: "Python Programming MOOC 2025",
+  siteUrl: "https://programming-25.mooc.fi",
+  githubUrl: "https://github.com/rage/programming-25",
   subtitle: "Python Programming MOOC",
-  slug: "programming-24",
+  slug: "programming-25",
   organizationName: "MOOC",
-  tmcCourse: "programming-24",
-  quizzesId: "0a8162e8-133a-4fa8-b619-4125cb92c6e0",
+  tmcCourse: "programming-25",
+  quizzesId: "e0625f9b-626a-4941-afda-6c6e1b577045",
   tmcOrganization: "mooc",
   bannerPath: "banner.svg",
   showExerciseDescriptionWhenNotLoggedIn: true,
   courseVariants: [
-    {
-      tmcOrganization: "hbc",
-      tmcCourse: "python-TVT24Eng"
-    },
-    {
-      tmcOrganization: "insviladegracia",
-      tmcCourse: "python-viladegracia-2024"
-    },
+    // {
+    //   tmcOrganization: "hbc",
+    //   tmcCourse: "python-TVT24Eng"
+    // },
+    // {
+    //   tmcOrganization: "insviladegracia",
+    //   tmcCourse: "python-viladegracia-2024"
+    // },
     // {
     //   tmcOrganization: "hbc",
     //   tmcCourse: "python-TVT21A",
