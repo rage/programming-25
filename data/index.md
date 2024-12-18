@@ -7,7 +7,7 @@ banner: true
 sidebar_priority: 7000
 ---
 
-**The course starts on January 15th, 2024.**
+**The course starts on January 13th, 2025.**
 
 This is the course material page for the Introduction to Programming course (BSCS1001, 5 ECTS) and the Advanced Course in Programming (BSCS1002, 5 ECTS) from the Department of Computer Science at the University of Helsinki.
 
@@ -31,9 +31,8 @@ The course will be open until the end of the year 2024. However, if you take one
 
 ## Lectures
 
-There are no more live lectures for this year's MOOC instance. The lecture recordings can be viewed on the table below.
+The course will be lectured next in the autumn of 2025. The lecture recordings from 2024 can be viewed on the table below.
 
-Please note that exam dates and similar information in the older recordings may not concern this year's course.
 
 <table>
   <thead>
