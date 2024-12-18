@@ -12,23 +12,16 @@ To pass the Python Programming MOOC courses you are expected to both complete ex
 
 #### Introduction to Programming
 
-* Saturday 11.01.2025
+* tbc
 
 #### Advanced Course in Programming
 
-* Saturday 14.12.2024
-* Tuesday 17.12.2024 **(Extra exam)**
-* Saturday 18.01.2025
-* Saturday 15.02.2025
-
-**NOTICE! An additional exam for the Advanced course to Programming course will be held on 17.12.2024. If you wish to participate in this exam, do not take the exam on 14.12.2024. If you take both exams, the lower score will be recorded.**
-
-*As an exception. the exam time on 17.12.2024 is from 10:00 AM to 4:00 PM (UTC+2), and technical support will be available from 10:00 AM to 12:00 PM (UTC+2). We recommend starting the exam during this period.*
+* tbc
 
 
 ## Taking a programming exam
 
-Once you have completed the required number of exercises for either of the courses, you may take the relevant course exam at any of the times listed above. Specifically, you must have received at least 25% of the exercise points for each of the seven parts of the course by 8 AM on the morning of the exam. If you are taking the advanced course exam, part 14 must be fully completed. If any of the seven points totals fall short of this limit, your exam submission will not be graded. **Note!** If you are taking the Advanced Course exam on Dec. 14th, the deadline for part 14 is on January 1st, 2025.
+Once you have completed the required number of exercises for either of the courses, you may take the relevant course exam at any of the times listed above. Specifically, you must have received at least 25% of the exercise points for each of the seven parts of the course by 8 AM on the morning of the exam. If you are taking the advanced course exam, part 14 must be fully completed. If any of the seven points totals fall short of this limit, your exam submission will not be graded.
 
 Submissions are assessed separately for the Introduction to Programming course (parts 1-7) and the Advanced Course in Programming (parts 8-14).
 
@@ -36,9 +29,9 @@ You may take part in any number of the exams listed above. The highest grade ach
 
 ## Information about exam arrangements
 
-<notice>All times are local time in Helsinki, Finland, UTC+03:00</notice>
+<notice>All times are local time in Helsinki, Finland</notice>
 
-* You do not need to enrol for the exam.
+* You do not need to enroll for the exam.
 * The course exam can be taken on exam date **between 10:00 AM and 10:00 PM**.
 * The exam ends at 10:00 PM at the latest. If you want to be able to spend the maximum time allowed on the exam, you should **start at 6:00 PM at the latest**.
 * You will have **four hours** to complete the exam. If you have been granted extra time through special arrangements, you will have five hours to complete the exam, and should start at 5:00 PM at the latest.
@@ -54,7 +47,8 @@ Each programming exercise and quiz in each part is worth a number of exercise po
 
 ### Grading scale
 
-The course is graded on the following scale:
+MOOC is divided into two courses: Introduction to Programming (parts 1 to 7) and Advanced Course in Programming (parts 8 to 14).
+Both courses are graded on the following scale:
 
 <table>
     <thead>
@@ -91,11 +85,11 @@ The course is graded on the following scale:
     </tbody>
 </table>
 
-The final grade is calculated based on the number of exercise points received during the course (50 % of final grade) and points received in the exam (50 % of final grade). Your exercise points percentage equals `([all received exercise points] / [number of exercise points available on course]) * 100`. We are working on including this percentage in the visualisation in the bottom right corner of each page.
+The final grade is calculated based on the number of exercise points received during the course (50 % of the final grade) and points received in the exam (50 % of the final grade). Your exercise points percentage equals `([all received exercise points] / [number of exercise points available on course]) * 100`. We are working on including this percentage in the visualization in the bottom right corner of each page.
 
 For example, if your total points percentage for the exercises for the whole course is 42 %, and you receive 79 % of the points in the exam, your final points percentage will be (42 % + 79 %) / 2 = 60.5 %, which equals grade 2 (Satisfactory).
 
-To pass the course you must have received at least 25% of the exercise points for each part on the course, regardless of the above calculation.
+To pass the course you must have received at least 25% of the exercise points for each part of the course, regardless of the above calculation.
 
 #### Exam points cutoff
 
