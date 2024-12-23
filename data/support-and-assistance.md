@@ -10,7 +10,7 @@ sidebar_priority: 4000
 
 The 2024 course will offer guidance at both the Kumpula campus and on Discord. The sessions on campus are held in Exactum BK107. The guidance sessions are the following
 
-**The guidance sessions will be updated in January before the course starts.**
+**The guidance schedule will be updated in January before the course starts.**
 
 | Time / Date | MON | TUE | WED | THU | FRI |
 |-----|----|----|----|----|----|
