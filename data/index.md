@@ -27,7 +27,7 @@ Use Discord primarily for communication. You can be in contact with the course t
 
 ## Timetable
 
-The course will be open until the end of the year 2024. However, if you take one of the last course exams in January of February 2025, you can keep doing the exercises until the exam day.
+The course will be open until the end of the year 2025. 
 
 ## Lectures
 
