@@ -16,12 +16,12 @@ The 2025 course will offer guidance at both the Kumpula campus and on Discord. T
 |-----|----|----|----|----|----|
 | 10-11 | - | - | - | Campus/Discord | - |
 | 11-12 | - | - | - | Campus/Discord | - |
-| 12-13 | - | Campus | Campus | Campus | Campus/Discord |
-| 13-14 | - | Campus | Campus | - | Campus/Discord |
-| 14-15 | Campus/Discord | Campus/Discord | Campus | - | - |
-| 15-16 | Campus/Discord | Campus/Discord | - | - | - |
-| 16-17 | - | - | - | - | - |
-| 17-18 | - | - | - | - | - |
+| 12-13 | - | - | Campus | Campus | Campus/Discord |
+| 13-14 | - | - | Campus | - | Campus/Discord |
+| 14-15 | Campus/Discord | Campus | Campus | - | - |
+| 15-16 | Campus/Discord | Campus | - | - | - |
+| 16-17 | - | Campus/Discord | - | - | - |
+| 17-18 | - | Campus/Discord | - | - | - |
 
 In the table **Campus** means that the guidance session will be on campus, **Discord** means its remotely on Discord. During the on-campus sessions there might be help available also on Discord if the assistants have time to follow the course Discord.
 
