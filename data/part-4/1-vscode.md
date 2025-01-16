@@ -17,7 +17,7 @@ Thus far all the exercises on this course have been completed directly on the co
 
 There are dozens of different editors that are suited to programming. On this course we will use the [Visual Studio Code](https://code.visualstudio.com/) editor, which has been gaining traction in recent years.
 
-Please install the Visual Studio Code editor on your own computer now. You may also need to install Python and the Visual Studio Code plugin for Python. You will also need the TMC plugin, which will take care of running the tests that go with the exercises. In the TMC plugin, select **MOOC** as the organization and **Python Programming 2024** as the course.
+Please install the Visual Studio Code editor on your own computer now. You may also need to install Python and the Visual Studio Code plugin for Python. You will also need the TMC plugin, which will take care of running the tests that go with the exercises. In the TMC plugin, select **MOOC** as the organization and **Python Programming 2025** as the course.
 
 [Here is a guide](https://www.mooc.fi/en/installation/vscode) to installing and running all of these. Read the instructions on working on and submitting exercises, and then complete the task below:
 
