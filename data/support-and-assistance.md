@@ -14,10 +14,10 @@ The 2025 course will offer guidance at both the Kumpula campus and on Discord. T
 
 | Time / Date | MON | TUE | WED | THU | FRI |
 |-----|----|----|----|----|----|
-| 10-11 | - | - | - | Campus/Discord | - |
-| 11-12 | - | - | - | Campus/Discord | - |
-| 12-13 | - | - | Campus | Campus | Campus/Discord |
-| 13-14 | - | - | Campus | - | Campus/Discord |
+| 10-11 | - | - | - | Campus/Discord | Campus/Discord |
+| 11-12 | - | - | - | Campus/Discord | Campus/Discord |
+| 12-13 | - | - | Campus | Campus | - |
+| 13-14 | - | - | Campus | - | - |
 | 14-15 | Campus/Discord | Campus | Campus | - | - |
 | 15-16 | Campus/Discord | Campus | - | - | - |
 | 16-17 | - | Campus/Discord | - | - | - |
