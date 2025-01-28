@@ -523,7 +523,7 @@ Just like the built-in functions above, our own functions can also take a list a
 
 ```python
 def median(my_list: list):
-    ordered = sorted(my_list))
+    ordered = sorted(my_list)
     list_centre = len(ordered) // 2
     return ordered[list_centre]
 ```
