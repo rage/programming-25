@@ -333,7 +333,7 @@ print(my_matrix)
 
 </sample-output>
 
-Like any other list, the rows of the matrix can be traversed wth a `for` loop. The following code prints out each row of the matrix on a separate line:
+Like any other list, the rows of the matrix can be traversed with a `for` loop. The following code prints out each row of the matrix on a separate line:
 
 ```python
 my_matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]

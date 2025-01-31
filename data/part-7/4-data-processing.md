@@ -86,7 +86,7 @@ JSON files are text files with a strict format, which is perhaps a little less a
 ]
 ```
 
-The structure of a JSON file might look quite familiar to you by know. The JSON file above looks exactly like a Python list, which contains three Python dictionaries.
+The structure of a JSON file might look quite familiar to you by now. The JSON file above looks exactly like a Python list, which contains three Python dictionaries.
 
 The standard library has a module for working with JSON files: [json](https://docs.python.org/3/library/json.html). The function `loads` takes any argument passed in a JSON format and transforms it into a Python data structure. So, processing the `courses.json` file with the code below
 
