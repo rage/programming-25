@@ -124,7 +124,7 @@ You may remember that lists do not contain any objects themselves. They contain 
 
 ```python
 class Product:
-    def __init__(self, name: int, unit: str):
+    def __init__(self, name: str, unit: str):
         self.name = name
         self.unit = unit
 
