@@ -411,7 +411,7 @@ quitting...
 
 ## Removing keys and values from a dictionary
 
-It is naturally possible to also remove key-value paris from the dictionary. There are two ways to accomplish this. The first is the command `del`:
+It is naturally possible to also remove key-value pairs from the dictionary. There are two ways to accomplish this. The first is the command `del`:
 
 ```python
 staff = {"Alan": "lecturer", "Emily": "professor", "David": "lecturer"}
