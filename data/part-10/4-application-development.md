@@ -304,7 +304,7 @@ Emily;040-324344
 Handling files is clearly its own area of responsibility, so it merits a class of its own:
 
 ```python
-class FileHandler():
+class FileHandler:
     def __init__(self, filename):
         self.__filename = filename
 
