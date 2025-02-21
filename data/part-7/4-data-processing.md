@@ -332,7 +332,7 @@ You have the CSV files from the previous exercise at your disposal again. Please
 
 The tasks are numbered 1 to 8, and each submission is graded with 0 to 6 points.
 
-In the dicionary returned the key should be the name of the student, and the value the total points received by the student.
+In the dictionary returned the key should be the name of the student, and the value the total points received by the student.
 
 Hint: nested dictionaries might be a good approach when processing the tasks and submission times of each student.
 
