@@ -1,9 +1,9 @@
 ---
 path: "/exam-intro"
-title: "Introduction to Programming exam 23.11."
+title: "Introduction to Programming exam 08.03."
 information_page: true
 sidebar_priority: 4900
-hide_in_sidebar: true
+hide_in_sidebar: false
 ---
 
 <!--# Introduction to Programming-->
@@ -19,7 +19,7 @@ hide_in_sidebar: true
 #### Exam arrangements
 
 * Your solutions to the programming tasks in the exam will be submitted in the Visual Studio Code programming environment, in the same manner as the weekly exercises on the course.
-* The course exam can be taken on November 23rd 2024 **between 10:00 (UTC+2) AM and 10:00 PM (UTC+2)**.
+* The course exam can be taken on March 8th 2025 **between 10:00 (UTC+2) AM and 10:00 PM (UTC+2)**.
 * The exam ends at 10:00 PM (UTC+2) at the latest. If you want to be able to spend the maximum time allowed on the exam, you should **start at 6:00 PM (UTC+2) at the latest**.
 * You will have **four hours** to complete the exam. If you have been granted extra time through special arrangements, you will have five hours to complete the exam, and should start at 5:00 PM (UTC+2) at the latest.
 
@@ -42,7 +42,7 @@ hide_in_sidebar: true
 2. Select the `My courses` view in the TMC menu.
 3. Click the `Add new course` button.
 4. Select the organization `Helsingin yliopisto`.
-5. Select the course `Introduction to Programming, autumn 2024, Online Exam 4`.
+5. Select the course `Introduction to Programming, spring 2025, Online Exam 1`.
 6. Fetch the programming task templates.
 7. Try submitting the programming tasks.
 8. If you are able to submit the tasks, you are ready to take the exam. If not, get in touch with course instructors. Don't panic, we will work it out.
@@ -54,8 +54,8 @@ Please do not ask any questions about specific programming tasks assigned to you
 
 * The exam questions, in the form of programming task instructions, will become available at courses.mooc.fi at 10:00 AM on the day of the exam.
 * You should use your usual mooc.fi login details to log in at the exam page.
-* The exam questions can be found from here: <a href="https://courses.mooc.fi/org/uh-cs/exams/cbeb13f2-9e1d-4a4a-a24a-00378ba5ba25">https://courses.mooc.fi/org/uh-cs/exams/cbeb13f2-9e1d-4a4a-a24a-00378ba5ba25</a>
-* If you have been granted extra time through special arrangements, open the exam questions from this link: <a href="https://courses.mooc.fi/org/uh-cs/exams/92c685b0-dd8b-4750-bf59-b5370c1f0606">https://courses.mooc.fi/org/uh-cs/exams/92c685b0-dd8b-4750-bf59-b5370c1f0606</a>
+* The exam questions can be found from here: <a href="https://courses.mooc.fi/org/uh-cs/exams/96c58e3d-c7c4-4161-aa62-e66cf5e98d2e">https://courses.mooc.fi/org/uh-cs/exams/96c58e3d-c7c4-4161-aa62-e66cf5e98d2e</a>
+* If you have been granted extra time through special arrangements, open the exam questions from this link: <a href="https://courses.mooc.fi/org/uh-cs/exams/fd08ff1e-a0d8-415d-b7a0-ed48a1a4c261">https://courses.mooc.fi/org/uh-cs/exams/fd08ff1e-a0d8-415d-b7a0-ed48a1a4c261</a>
 * Your allocated exam time will begin when you click on the button `START THE EXAM!`.
 
 #### Submitting your solutions
@@ -67,7 +67,7 @@ Please do not ask any questions about specific programming tasks assigned to you
 #### Finishing the exam
 
 * Please make sure you have submitted all your programming tasks before finishing.
-* You can check the arrival of the exercises you have submitted to the server by logging in to the page [https://tmc.mooc.fi/org/hy/courses/1474](https://tmc.mooc.fi/org/hy/courses/1474). The programming task has arrived on the server if you can see the name of the task template and the time when you submitted the task.
+* You can check the arrival of the exercises you have submitted to the server by logging in to the page [https://tmc.mooc.fi/org/hy/courses/1544](https://tmc.mooc.fi/org/hy/courses/1544). The programming task has arrived on the server if you can see the name of the task template and the time when you submitted the task.
 * When you are done, you can close all Visual Studio Code tabs and windows, along with the exam question page. There is no need to do anything else.
 
 #### Exam results
@@ -78,6 +78,7 @@ Please do not ask any questions about specific programming tasks assigned to you
 #### Other information
 
 * You are **not** allowed to collaborate with other students or copy ready solutions from anywhere during the exam. However, **this is an open book exam, so the usual resources, such as course materials, Python Tutor visualisation tool and Google, are allowed.**
+* You are **not** allowed to use Large Language Models, such as ChatGPT or similar, during the exam.
 * Your programming task submissions will be checked with a plagiarism detector. Any cheating detected leads to a failed exam at minimum, but may also lead to expulsion from the course.
 * The programming tasks in the exam will be similar to the programming tasks in the course material. The best way to prepare for the exam is to revisit the course material.
 * Your course results will be emailed to you after the exam, along with instructions for registering your course credits.
