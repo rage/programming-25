@@ -23,7 +23,7 @@ class NameOfClass:
     # class defition goes here
 ```
 
-Classes are usually named in _camel case_. This means that all the words in the class name are written together, without spaces, and each word is capitalised. The following class names follow this convention:
+Classes are usually named in _PascalCase_, also known as _UpperCamelCase_. This means that all the words in the class name are written together, without spaces, and each word is capitalised. The following class names follow this convention:
 
 * `Weekday`
 * `BankAccount`
