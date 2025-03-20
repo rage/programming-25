@@ -934,7 +934,7 @@ class Person:
     # NB: type hints must be enclosed in quotation marks if the parameter 
     # is of the same type as the class itself!
     def older_than(self, another: "Person"):
-        return self.year_of_birth < another.year_of_birth:
+        return self.year_of_birth < another.year_of_birth
 ```
 
 As stated in the comments in the examples above, if the parameter in a method definition is of the same type as the class itself, the type hint must be enclosed in quotation marks. Leaving the quotation marks out causes an error, which you will see if you try the following:
