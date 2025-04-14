@@ -27,6 +27,10 @@ In the table **Campus** means that the guidance session will be on campus, **Dis
 
 *The schedule is subject to change.*
 
+**Note!** The guidance sessions are not held on the following dates:
+* 17th of April - 23rd of April (Easter break)
+* 1st of May (May Day)
+
 #### Discord
 
 Discord is a communication platform which allows both text-based and voice/video chats. You can find out more about the platform [on the Discord website](https://discord.com/).
