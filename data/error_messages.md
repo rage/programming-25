@@ -74,6 +74,6 @@ See above.
 
 ### Pylance is crashing
 
-This is usually caused by the TMC module having too many exercises open at the same time. You can try closing unused exercises from the TMC menu in the VS code sidebar.
+This is usually caused by the TMC plugin having too many exercises open at the same time. You can try closing unused exercises from the TMC menu in the VS code sidebar.
 Click the TMC menu open, under my courses open the courses you have, and click on "close all" on parts which you are no longer working on.
 You can always reopen the exercises if you decide to return to the part.
