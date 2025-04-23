@@ -865,14 +865,14 @@ pascal = Person("Blaise Pascal", 1623)
 grace = Person("Grace Hopper", 1906)
 
 if older_than(muhammad, pascal):
-    print(f"{muhammad} is older than {pascal}")
+    print(f"{muhammad.name} is older than {pascal.name}")
 else:
-    print(f"{muhammad} is not older than {pascal}")
+    print(f"{muhammad.name} is not older than {pascal.name}")
 
 if older_than(grace, pascal):
-    print(f"{grace} is older than {pascal}")
+    print(f"{grace.name} is older than {pascal.name}")
 else:
-    print(f"{grace} is not older than {pascal}")
+    print(f"{grace.name} is not older than {pascal.name}")
 ```
 
 <sample-output>
