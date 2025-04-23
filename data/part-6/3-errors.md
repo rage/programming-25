@@ -74,7 +74,7 @@ The `int` function is unable to parse the input string `twenty-three` as a valid
 
 Errors that occur while the program is already running are called _exceptions_. It is possible to prepare for exceptions, and handle them so that the execution continues despite them occurring.
 
-Exception handling in Python is accomplished with `try` and `except` statements. The idea is that if something within a `try` block causes an exception, Python checks if there is a corresponding `except` block. If such a block exists, it is executed and the program themn continues as if nothing happened.
+Exception handling in Python is accomplished with `try` and `except` statements. The idea is that if something within a `try` block causes an exception, Python checks if there is a corresponding `except` block. If such a block exists, it is executed and the program then continues as if nothing happened.
 
 Let's change the above example so that the program is prepared for the `ValueError` exception:
 
@@ -99,7 +99,7 @@ This is not a valid age
 
 We can use the `try` block to flag that the code within the block may cause an error. In the `except` statement directly after the block the relevant error is mentioned. In the above example we covered only a `ValueError` exception. If the exception had some other cause, the execution would still have halted, despite the `try` and `except` blocks.
 
-In the above example, if the error is caught, the value of `age` is set to -1. This is an invalid input value which we have already programmed behaviour for, as the program excpects the age of the user to be greater than 0.
+In the above example, if the error is caught, the value of `age` is set to -1. This is an invalid input value which we have already programmed behaviour for, as the program expects the age of the user to be greater than 0.
 
 In the following example we have a function `read_integer`, which asks the user to type in an integer value, but the function is also prepared for invalid input. The function keeps asking for integers until the user types in a valid input value.
 
