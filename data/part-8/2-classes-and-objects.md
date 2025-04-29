@@ -36,7 +36,7 @@ When some other type of object is declared, we need to call a special initializa
 # we are using the class Fraction from the module fractions
 from fractions import Fraction
 
-# create some new fraactions
+# create some new fractions
 half = Fraction(1,2)
 
 third = Fraction(1,3)
