@@ -73,8 +73,9 @@ Please do not ask any questions about specific programming tasks assigned to you
 
 #### Exam results
 
-* The results of the exam will be emailed to you when the course has been fully graded.
+* The results of the exam will be emailed to you when the course has been fully graded. The grading of exam will be completed within 4 weeks of the exam.
 * The email will also contain instructions for registering your course credits.
+* The credits are registered by enrolling in the course at the open university.
 
 #### Other information
 
