@@ -6,30 +6,26 @@ information_page: true
 sidebar_priority: 4000
 ---
 
-### Guidance during the Spring
+### Guidance during the Summer
 
 The 2025 course will offer guidance at both the Kumpula campus and on Discord. The sessions on campus are held in Exactum BK107. The guidance sessions are the following
 
-**The guidance begins on Tuesday, 14th of January.**
+**The guidance begins on Thursday, 15th of May.**
 
 | Time / Date | MON | TUE | WED | THU | FRI |
 |-----|----|----|----|----|----|
-| 10-11 | - | - | - | Campus | - |
-| 11-12 | - | - | - | Campus | - |
-| 12-13 | Campus/Discord | - | Campus | Campus | - |
-| 13-14 | Campus/Discord | - | Campus | - | - |
-| 14-15 | - | Campus | Campus | - | - |
-| 15-16 | - | Campus | - | - | - |
-| 16-17 | - | Campus | - | - | - |
-| 17-18 | - | Campus | - | - | - |
+| 10-11 | - | - | - | - | - |
+| 11-12 | Campus/Discord | - | - | Campus/Discord | - |
+| 12-13 | Campus/Discord | - | - | Campus/Discord | - |
+| 13-14 | - | - | - | - | - |
+| 14-15 | - | - | - | - | - |
+| 15-16 | - | - | - | - | - |
+| 16-17 | - | - | - | - | - |
+| 17-18 | - | - | - | - | - |
 
 In the table **Campus** means that the guidance session will be on campus, **Discord** means its remotely on Discord. During the on-campus sessions there might be help available also on Discord if the assistants have time to follow the course Discord.
 
 *The schedule is subject to change.*
-
-**Note!** The guidance sessions are not held on the following dates:
-* 21st of April (Easter break)
-* 1st of May (May Day)
 
 #### Discord
 
