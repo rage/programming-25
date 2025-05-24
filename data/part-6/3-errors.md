@@ -15,7 +15,7 @@ After this section
 
 </text-box>
 
-The are two basic categories of errors that come up in programming contexts:
+There are two basic categories of errors that come up in programming contexts:
 
 1. Syntax errors, which prevent the execution of the program
 2. Runtime errors, which halt the execution
