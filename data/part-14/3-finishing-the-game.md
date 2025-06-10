@@ -117,7 +117,7 @@ The player can still see the game grid and the final state of the game, however.
 
 When developing games it often happens that you'd want to check what happens in some later situation in the game. For example, in this game the moment where the game is solved is one such situation.
 
-It can be difficult to test the correct functioning of a situation like that, as you'd normally ahve to solve the game to reach that point in the game. As programmers we can make some temporary alleviations in our games, to make it easier to test them. For example, we could add the following to make it temporarily easier to solve the game:
+It can be difficult to test the correct functioning of a situation like that, as you'd normally have to solve the game to reach that point in the game. As programmers we can make some temporary alleviations in our games, to make it easier to test them. For example, we could add the following to make it temporarily easier to solve the game:
 
 ```python
     def game_solved(self):
