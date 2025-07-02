@@ -26,7 +26,16 @@ Yes you can! You do not need to enrol to start, or, in fact, even to complete th
 
 ### Can I receive official study credits for this course?
 
-At the end of the course you will need to take part in the course exam. If you receive a passing grade, you will be able to get study credits. See the [Grading and exams](/grading-and-exams) page for more details about grading.
+At the end of the course you will need to take part in the course exam. If you receive a passing grade, you will be able to get study credits. See the [Grading and exams](/grading-and-exams) page for more details about grading. You can find detailed instructions for registering credits below.
+
+To receive credits for the course, you must enroll on the course through the Open University after you have successfully completed the online exam and passed the course. Follow these instructions to enroll on the course:
+
+1. Sign into the mooc.fi website through the following link: https://www.mooc.fi/fi/profile/completions
+2. Make sure you log in with the same email address that you have used on the course platform.
+3. After you have logged in, you will see a list of courses that you have completed. There is a Register Completion button on the right side of the course name.
+4. Clicking on the button will take you to the Open University enrollment form. Fill the form to receive credits. Be sure to enter the email address that you have used to complete the course in the enrolment form field 'Your email address on the MOOC course'.
+
+You will receive credits for the course within a few days of the course enrollment. Please note that the credits will be registered to the University of Helsinki study register.
 
 ### Can my study credits be transferred to my home institution?
 
@@ -64,6 +73,6 @@ Introduction to Programming is a massive open online course, free of charge and 
 
 The Introduction to Programming course translates to a course worth 5 study credits at the University of Helsinki. However, course participants are not automatically University of Helsinki students, and it is possible to participate in the course in a way that will not result in study credits. If the participant so wishes, they may receive credits for this course. Participating in this course does not entitle the participant to a governmental study grant.
 
-### I'm currently receiving unemployment benefits in Finland. Can I still take this course? 
+### I'm currently receiving unemployment benefits in Finland. Can I still take this course?
 
 Please take this up with your employment services office (TE-toimisto). Unfortunately, not all employment services offices treat this course in the same way. Some offices have withdrawn benefits for simply participating in the course, even if the participant is not aiming for a right to study or official study credits. On the other hand, some offices have even recommended this course without withdrawing benefits.
