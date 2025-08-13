@@ -6,17 +6,17 @@ information_page: true
 sidebar_priority: 4000
 ---
 
-### Guidance during the Summer
+### Guidance during August
 
-**Guidance is only on discord during the summer, until August 1st**
+**The guidance schedule will be updated in early September, with more guidance slots available**
 
 The 2025 course will offer guidance at both the Kumpula campus and on Discord. The sessions on campus are held in Exactum BK107. The guidance sessions are the following
 
 
 | Time / Date | MON | TUE | WED | THU | FRI |
 |-----|----|----|----|----|----|
-| 10-11 | - | - | - | - | - |
-| 11-12 | - | - | - | - | - |
+| 10-11 | x | - | - | - | - |
+| 11-12 | x | - | - | - | - |
 | 12-13 | - | - | - | - | - |
 | 13-14 | - | - | - | - | - |
 | 14-15 | - | - | - | - | - |
