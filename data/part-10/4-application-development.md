@@ -654,8 +654,9 @@ Linnankatu 75, Turku
 
 command: **2**
 name: **Wilhelm**
-address unknown
 number unknown
+address unknown
+
 
 command: **0**
 
