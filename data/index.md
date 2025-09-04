@@ -31,7 +31,9 @@ The course will be open until the end of the year 2025.
 
 ## Lectures
 
-The course will be lectured next in the autumn of 2025. The lecture recordings from 2024 can be viewed on the table below.
+The course will be lectured next in the autumn of 2025, starting on September 4th at 10.15 Finnish time.
+
+You can follow the lectures via this [Zoom link](https://helsinki.zoom.us/j/68232233785?pwd=8z9tXcdl2OUT24ku53UQfa7nS7LBZt.1)
 
 
 <table>
