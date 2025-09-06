@@ -31,10 +31,9 @@ The course will be open until the end of the year 2025.
 
 ## Lectures
 
-The course will be lectured next in the autumn of 2025, starting on September 4th at 10.15 Finnish time.
+The course is lectured next in the autumn of 2025, starting on September 4th at 10.15 Finnish time each Thursday.
 
 You can follow the lectures via this [Zoom link](https://helsinki.zoom.us/j/68232233785?pwd=8z9tXcdl2OUT24ku53UQfa7nS7LBZt.1)
-
 
 <table>
   <thead>
@@ -46,9 +45,9 @@ You can follow the lectures via this [Zoom link](https://helsinki.zoom.us/j/6823
   </thead>
   <tbody>
     <tr>
-      <td>Part 1</td>
-      <td><a href="https://youtu.be/mURhYbTkFnc">Recording 05.09.2024</a></td>
-      <td><a href="https://docs.google.com/presentation/d/1l28RVCzeJ7OsBIXWtERt4COwbSLtYL2ap_7sDNGqX68/edit?usp=sharing">Slides</a></td>
+      <td>Part 1 (2025)</td>
+      <td><a href="https://youtu.be/SP8FaDc5uUo">Recording 04.09.2025</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1-lGSHue321CimwpVoeTtCqedaCNN23-y8vMwI6tk2MU/edit?usp=sharing">Slides</a></td>
     </tr>
     <tr>
       <td>Part 2</td>
