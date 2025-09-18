@@ -55,9 +55,9 @@ You can follow the lectures via this [Zoom link](https://helsinki.zoom.us/j/6823
       <td><a href="https://docs.google.com/presentation/d/1Y8xjmFi2XnJi7VF5UAJmPUgrEpF0UdU6HV5HLkq1RQI/edit?usp=sharing">Slides</a></td>
     </tr>
     <tr>
-      <td>Part 3</td>
-      <td><a href="https://youtu.be/vGtIKyuH0i4">Recording 19.09.2024</a></td>
-      <td><a href="https://docs.google.com/presentation/d/1OWiZt29hFynu_50B1FmzbzOYC7-z8iyx4mQ3TJTPjs0/edit?usp=sharing">Slides</a></td>
+      <td>Part 3 (2025)</td>
+      <td><a href="https://youtu.be/kzGJLq6qmlc">Recording 18.09.2025</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1R4FSehQtq6BkMOsri1z1IcQNYJCRsj3r2oVgkYSJ1RA/edit?usp=sharing">Slides</a></td>
     </tr>
     <tr>
       <td>Part 4</td>
