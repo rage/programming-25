@@ -70,9 +70,9 @@ You can follow the lectures via this [Zoom link](https://helsinki.zoom.us/j/6823
       <td><a href="https://docs.google.com/presentation/d/1GdTRPNRNogn6Waf0z947J_SuzoEEjcF81Q6jFdhgIHY/edit?usp=sharing">Slides</a></td>
     </tr>
     <tr>
-      <td>Part 6 </td>
-      <td><a href="https://youtu.be/bXmvPZbPkW0">Recording 10.10.2024</a></td>
-      <td><a href="https://docs.google.com/presentation/d/1kVjKar8gVwIyFerqMmgg6y1RRGlWHVC2Xh0oKH_hjJI/edit?usp=sharing">Slides</a></td>
+      <td>Part 6 (2025)</td>
+      <td><a href="https://youtu.be/V0rzjcPNo0E">Recording 09.10.2025</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1BiCf81NvbO8dxCaSUiiZ5WUfrx-MBEJGeJaMFzxJ-CM/edit?usp=sharing">Slides</a></td>
     </tr>
     <tr>
       <td>Part 7 </td>
