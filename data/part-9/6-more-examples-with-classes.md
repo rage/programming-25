@@ -26,10 +26,10 @@ class Point:
         self.x = x
         self.y = y
 
-    # This class method returns a new Point at origo (0, 0)
+    # This class method returns a new Point at origin (0, 0)
     # It is possible to return a new instance of the class from within the class
     @classmethod
-    def origo(cls):
+    def origin(cls):
         return Point(0, 0)
 
     # This class method creates a new Point based on an existing Point
@@ -77,8 +77,8 @@ class Line:
 point = Point(1,3)
 print(point)
 
-origo = Point.origo()
-print(origo)
+origin = Point.origin()
+print(origin)
 
 point2 = Point.mirrored(point, True, True)
 print(point2)
