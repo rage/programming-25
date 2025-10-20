@@ -1,9 +1,9 @@
 ---
 path: "/exam-adv"
-title: "Advanced Course in Programming exam 16.08."
+title: "Advanced Course in Programming exam 21.10."
 information_page: true
 sidebar_priority: 4800
-hide_in_sidebar: true
+hide_in_sidebar: false
 ---
 
 <!--# Advanced Course in Programming-->
@@ -43,7 +43,7 @@ hide_in_sidebar: true
 2. Select the `My courses` view in the TMC menu.
 3. Click the `Add new course` button.
 4. Select the organization `Helsingin yliopisto`.
-5. Select the course `Advanced Course in Programming, summer 2025, Online Exam 2`.
+5. Select the course `Advanced Course in Programming, autumn 2025, Online Exam 1`.
 6. Fetch the programming task templates.
 7. Try submitting the programming tasks.
 8. If you are able to submit the tasks, you are ready to take the exam. If not, get in touch with course instructors. Don't panic, we will work it out.
@@ -55,8 +55,8 @@ Please do not ask any questions about specific programming tasks assigned to you
 
 * The exam questions, in the form of programming task instructions, will become available at courses.mooc.fi at 10:00 AM on the day of the exam.
 * You should use your usual mooc.fi login details to log in at the exam page.
-* The exam questions can be found from here: <a href="https://courses.mooc.fi/org/uh-cs/exams/b329fd70-bfb2-4118-b9ea-c823656bf35f">https://courses.mooc.fi/org/uh-cs/exams/b329fd70-bfb2-4118-b9ea-c823656bf35f</a>
-* If you have been granted extra time through special arrangements, open the exam questions from this link: <a href="https://courses.mooc.fi/org/uh-cs/exams/af3345a2-28d5-42c6-b7f8-43bfe5820489">https://courses.mooc.fi/org/uh-cs/exams/af3345a2-28d5-42c6-b7f8-43bfe5820489</a>
+* The exam questions can be found from here: <a href="https://courses.mooc.fi/org/uh-cs/exams/1e8ff34b-940a-4820-9ec6-11b55ea4ace7">https://courses.mooc.fi/org/uh-cs/exams/1e8ff34b-940a-4820-9ec6-11b55ea4ace7</a>
+* If you have been granted extra time through special arrangements, open the exam questions from this link: <a href="https://courses.mooc.fi/org/uh-cs/exams/696c7394-fa47-4d04-aca5-bbd51101b7fe">https://courses.mooc.fi/org/uh-cs/exams/696c7394-fa47-4d04-aca5-bbd51101b7fe</a>
 * Your allocated exam time will begin when you click on the button `START THE EXAM!`.
 
 #### Submitting your solutions
@@ -68,7 +68,7 @@ Please do not ask any questions about specific programming tasks assigned to you
 #### Finishing the exam
 
 * Please make sure you have submitted all your programming tasks before finishing.
-* You can check the arrival of the exercises you have submitted to the server by **logging in** to the page [https://tmc.mooc.fi/org/hy/courses/1583](https://tmc.mooc.fi/org/hy/courses/1583). The programming task has arrived on the server if you can see the name of the task template and the time when you submitted the task.
+* You can check the arrival of the exercises you have submitted to the server by **logging in** to the page [https://tmc.mooc.fi/org/hy/courses/1619](https://tmc.mooc.fi/org/hy/courses/1619). The programming task has arrived on the server if you can see the name of the task template and the time when you submitted the task.
 * When you are done, you can close all Visual Studio Code tabs and windows, along with the exam question page. There is no need to do anything else.
 
 #### Exam results
