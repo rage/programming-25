@@ -19,7 +19,7 @@ hide_in_sidebar: false
 #### Exam arrangements
 
 * Your solutions to the programming tasks in the exam will be submitted in the Visual Studio Code programming environment, in the same manner as the weekly exercises on the course.
-* The course exam can be taken on August 16th 2025 **between 10:00 (UTC+3) AM and 10:00 PM (UTC+3)**.
+* The course exam can be taken on October 21st 2025 **between 10:00 (UTC+3) AM and 10:00 PM (UTC+3)**.
 * The exam ends at 10:00 PM (UTC+3) at the latest. If you want to be able to spend the maximum time allowed on the exam, you should **start at 6:00 PM (UTC+3) at the latest**.
 * You will have **four hours** to complete the exam. If you have been granted extra time through special arrangements, you will have five hours to complete the exam, and should start at 5:00 PM (UTC+3) at the latest.
 
