@@ -240,7 +240,10 @@ import ssl # add this library to your import section
 
 def retrieve_all():
     # add the following line to the beginning of all your functions
-    context = ssl._create_unverified_context()
+    my_context = ssl._create_unverified_context()
+    address = "https://studies.cs.helsinki.fi/stats-mock/api/courses"
+    # add a second argument to the function call
+    request = urllib.request.urlopen(address, context = my_context)
     # the rest of your function
 ```
 
