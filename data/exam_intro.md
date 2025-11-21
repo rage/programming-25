@@ -1,6 +1,6 @@
 ---
 path: "/exam-intro"
-title: "Introduction to Programming exam 28.10."
+title: "Introduction to Programming exam 22.11."
 information_page: true
 sidebar_priority: 4900
 hide_in_sidebar: false
@@ -19,9 +19,9 @@ hide_in_sidebar: false
 #### Exam arrangements
 
 * Your solutions to the programming tasks in the exam will be submitted in the Visual Studio Code programming environment, in the same manner as the weekly exercises on the course.
-* The course exam can be taken on October 28th 2025 **between 10:00 (UTC+3) AM and 10:00 PM (UTC+3)**.
-* The exam ends at 10:00 PM (UTC+3) at the latest. If you want to be able to spend the maximum time allowed on the exam, you should **start at 6:00 PM (UTC+3) at the latest**.
-* You will have **four hours** to complete the exam. If you have been granted extra time through special arrangements, you will have five hours to complete the exam, and should start at 5:00 PM (UTC+3) at the latest.
+* The course exam can be taken on November 22nd 2025 **between 10:00 (UTC+2) AM and 10:00 PM (UTC+2)**.
+* The exam ends at 10:00 PM (UTC+2) at the latest. If you want to be able to spend the maximum time allowed on the exam, you should **start at 6:00 PM (UTC+2) at the latest**.
+* You will have **four hours** to complete the exam. If you have been granted extra time through special arrangements, you will have five hours to complete the exam, and should start at 5:00 PM (UTC+2) at the latest.
 
 #### Before the exam date
 
@@ -31,8 +31,8 @@ hide_in_sidebar: false
 
 #### At the exam date
 
-* In case of technical problems, the course instructor will be on standby **from 10:00 AM (UTC+3) to 2:00 PM (UTC+3)** on the [Discord](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc) at channel `ohjelmoinnin_mooc_english`.
-* On the exam date **from 2:00 PM (UTC+3) to 10:00 PM (UTC+3)** discussion in the course's support channels is forbidden. The course's Discord is locked and messages cannot be sent to channels.
+* In case of technical problems, the course instructor will be on standby **from 10:00 AM (UTC+2) to 2:00 PM (UTC+2)** on the [Discord](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc) at channel `ohjelmoinnin_mooc_english`.
+* On the exam date **from 2:00 PM (UTC+2) to 10:00 PM (UTC+2)** discussion in the course's support channels is forbidden. The course's Discord is locked and messages cannot be sent to channels.
 
 #### Fetching the programming task templates
 
@@ -42,7 +42,7 @@ hide_in_sidebar: false
 2. Select the `My courses` view in the TMC menu.
 3. Click the `Add new course` button.
 4. Select the organization `Helsingin yliopisto`.
-5. Select the course `Introduction to Programming, autumn 2025, Online Exam 2`.
+5. Select the course `Introduction to Programming, autumn 2025, Online Exam 3`.
 6. Fetch the programming task templates.
 7. Try submitting the programming tasks.
 8. If you are able to submit the tasks, you are ready to take the exam. If not, get in touch with course instructors. Don't panic, we will work it out.
@@ -54,8 +54,8 @@ Please do not ask any questions about specific programming tasks assigned to you
 
 * The exam questions, in the form of programming task instructions, will become available at courses.mooc.fi at 10:00 AM on the day of the exam.
 * You should use your usual mooc.fi login details to log in at the exam page.
-* The exam questions can be found from here: <a href="https://courses.mooc.fi/org/uh-cs/exams/41d619f4-206e-4675-b8fd-5ecddf90cd63">https://courses.mooc.fi/org/uh-cs/exams/41d619f4-206e-4675-b8fd-5ecddf90cd63</a>
-* If you have been granted extra time through special arrangements, open the exam questions from this link: <a href="https://courses.mooc.fi/org/uh-cs/exams/6a76347d-a0e8-4a91-b2f4-20e903e931e8">https://courses.mooc.fi/org/uh-cs/exams/6a76347d-a0e8-4a91-b2f4-20e903e931e8</a>
+* The exam questions can be found from here: <a href="https://courses.mooc.fi/org/uh-cs/exams/2b0cc73e-c681-476d-8c85-4f7cb6d9821e">https://courses.mooc.fi/org/uh-cs/exams/2b0cc73e-c681-476d-8c85-4f7cb6d9821e</a>
+* If you have been granted extra time through special arrangements, open the exam questions from this link: <a href="https://courses.mooc.fi/org/uh-cs/exams/2a4de14d-9a98-476b-8b29-2bf529f60f9e">https://courses.mooc.fi/org/uh-cs/exams/2a4de14d-9a98-476b-8b29-2bf529f60f9e</a>
 * Your allocated exam time will begin when you click on the button `START THE EXAM!`.
 
 #### Submitting your solutions
@@ -67,7 +67,7 @@ Please do not ask any questions about specific programming tasks assigned to you
 #### Finishing the exam
 
 * Please make sure you have submitted all your programming tasks before finishing.
-* You can check the arrival of the exercises you have submitted to the server by **logging in** to the page [https://tmc.mooc.fi/org/hy/courses/1620](https://tmc.mooc.fi/org/hy/courses/1620). The programming task has arrived on the server if you can see the name of the task template and the time when you submitted the task.
+* You can check the arrival of the exercises you have submitted to the server by **logging in** to the page [https://tmc.mooc.fi/org/hy/courses/1631](https://tmc.mooc.fi/org/hy/courses/1631). The programming task has arrived on the server if you can see the name of the task template and the time when you submitted the task.
 * When you are done, you can close all Visual Studio Code tabs and windows, along with the exam question page. There is no need to do anything else.
 
 #### Exam results
