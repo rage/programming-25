@@ -3,7 +3,7 @@ path: "/exam-intro"
 title: "Introduction to Programming exam 17.01."
 information_page: true
 sidebar_priority: 4900
-hide_in_sidebar: false
+hide_in_sidebar: true
 ---
 
 <!--# Introduction to Programming-->
