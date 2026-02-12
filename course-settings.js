@@ -12,19 +12,14 @@ const courseSettings = {
   bannerPath: "banner.svg",
   showExerciseDescriptionWhenNotLoggedIn: true,
   courseVariants: [
-    // {
-    //   tmcOrganization: "hbc",
-    //   tmcCourse: "python-TVT24Eng"
-    // },
-    // {
-    //   tmcOrganization: "insviladegracia",
-    //   tmcCourse: "python-viladegracia-2024"
-    // },
-    // {
-    //   tmcOrganization: "hbc",
-    //   tmcCourse: "python-TVT21A",
-    //   // quizzesId: "5c89b9b6-b8a6-4079-8c4f-a4bbc80b66a4",
-    // },
+    {
+      tmcOrganization: "laurea",
+      tmcCourse: "python-english-2026-grotenfelt",
+    },
+    {
+      tmcOrganization: "laurea",
+      tmcCourse: "python-english-2026",
+    },
   ],
 }
 
