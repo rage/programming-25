@@ -449,7 +449,7 @@ If we determine a certain functionality in the program needs fixing, in a well d
 
 Let's revisit the course grading project from the previous section. 
 
-As we left if last time, the program read and processed files containing student information, completed exercises and exam results. We'll add a file containing information about the course. An example of the format of the file:
+As we left it last time, the program read and processed files containing student information, completed exercises and exam results. We'll add a file containing information about the course. An example of the format of the file:
 
 <sample-data>
 
