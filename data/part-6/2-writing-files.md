@@ -107,7 +107,7 @@ Hi Ada, we hope you enjoy learning Python with us! Best, Mooc.fi Team
 
 If you want to append data to the end of a file, instead of overwriting the entire file, you should open the file in append mode with the argument `a`.
 
-If the file doesn't yet exist, append mode works exatly like write mode.
+If the file doesn't yet exist, append mode works exactly like write mode.
 
 The following program opens the file `new_file.txt` and appends a couple of lines of text to the end:
 
