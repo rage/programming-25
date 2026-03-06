@@ -14,6 +14,10 @@ const courseSettings = {
   courseVariants: [
     {
       tmcOrganization: "laurea",
+      tmcCourse: "python-english-2025-laurea-henttonen",
+    },
+    {
+      tmcOrganization: "laurea",
       tmcCourse: "python-english-2026-grotenfelt",
     },
     {
