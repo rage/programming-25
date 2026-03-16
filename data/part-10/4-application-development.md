@@ -807,9 +807,9 @@ This removes an _unnecessary dependency_ from the `PhoneBookApplication` class. 
 
 ```python
 class PhoneBookApplication:
-    def __init__(self, filename):
+    def __init__(self, storage_service):
         self.__phonebook = PhoneBook()
-        self.__filename = filename
+        self.__storage_service = storage_service
 
     # the rest of the user interface
 
